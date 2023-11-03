@@ -1,0 +1,7 @@
+CONTENTFUL_SPACE_ID=''
+CONTENTFUL_PREVIEW_TOKEN =''
+CONTENTFUL_DELIVERY_TOKEN = ''
+#just for testing not yet deployed shopify you can ignore it 
+SHOPIFY_STOREFRONT_TOKEN=''
+SHOPIFY_STORE_DOMAIN=''
+GRAPHQL_API:http://localhost:3002/graphql
